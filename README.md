@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamibono&label=Profile%20views&color=0e75b6&style=flat" alt="benjamibono" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](repositories)
+- 🔭 I’m currently working on [My Portfolio](https://www.benjamibono.dev)
 
-- 👨‍💻 All of my projects are available at [Benjami Bono Projects](www.benjamibono.dev)
+- 👨‍💻 All of my projects are available at [Benjami Bono Projects](https://www.benjamibono.dev)
 
 - 📫 How to reach me **benjamibono@gmail.com**
 
