@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋🏼, I'm Benjami Bono</h1>
-<h3 align="center">A passionate Front End Developer from Spain</h3>
+<h1 align="center">Hi! 👋🏼   I'm Benjami Bono</h1>
+<h3 align="center">A Passionate Web Developer driven by smart problem-solving, rapid learning, and staying ahead in web technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamibono&label=Profile%20views&color=0e75b6&style=flat" alt="benjamibono" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://www.benjamibono.dev)
+- 🔭 I’m currently working on [My Studdy Buddy](https://mystudybuddy.vercel.app/) & [Siam May Xerez](https://siammay.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [Benjami Bono Projects](https://www.benjamibono.dev)
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/benjamibono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benjamibono" height="30" width="40" /></a>
+<a href="https://x.com/benjamibono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benjamibono" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/benjamibono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamibono" height="30" width="40" /></a>
 </p>
 
