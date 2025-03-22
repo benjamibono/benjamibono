@@ -1,4 +1,4 @@
- <h1 align="center">Hey! I’m Benji 👋</h1>
+ <h1 align="center">Hey! I’m Benji 👋🏼</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/benjamibono" target="_blank">
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">🙋🏻‍♂️ Hey! I’m Benjami Bono, but you can call me Benji 😎<br><br>📍 Originally from Spain 🇪🇸, now living in Switzerland 🇨🇭<br><br>✨ +3 years crafting modern websites and dynamic UI's<br><br>💼 Currently working on <a href="https://mystudybuddy.vercel.app/" target="_blank">My Study Buddy</a> & <a href="https://siammay.vercel.app" target="_blank">Siam May Xerez</a> and other private projects for third parties.<br><br>💻 Frontend developer continuously expanding my skills in back-end development, aiming to become a full-stack developer.<br><br>🎯 In my free time, I’m passionate about technology in all its forms and love training MMA.<br><br>🔍 Open to on-site work and eager to contribute and take on new challenges.<br><br>📌 More info & projects → <a href="https://benjamibono.dev" target="_blank">My Portfolio</a><br><br>📥 Reach me at <a href="mailto:benjamibono@gmail.com">Gmail</a></p>
+<p align="left">🙋🏻‍♂️ Hey! I’m Benjami Bono, but you can call me Benji 😎<br><br>📍 Originally from Spain 🇪🇸, now living in Switzerland 🇨🇭<br><br>✨ +3 years crafting modern websites and dynamic UI's<br><br>💼 Currently working on <a href="https://mystudybuddy.vercel.app/" target="_blank">My Study Buddy</a> & <a href="https://[ecom-mockup.vercel.app/]" target="_blank">NexBuy</a> and other private projects for third parties.<br><br>💻 Frontend developer continuously expanding my skills in back-end development, aiming to become a full-stack developer.<br><br>🎯 In my free time, I’m passionate about technology in all its forms and love training MMA.<br><br>🔍 Open to on-site work and eager to contribute and take on new challenges.<br><br>📌 More info & projects → <a href="https://benjamibono.dev" target="_blank">My Portfolio</a><br><br>📥 Reach me at <a href="mailto:benjamibono@gmail.com">Gmail</a></p>
 
 ###
 
