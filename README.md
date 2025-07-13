@@ -25,7 +25,18 @@
 
 ###
 
-<p align="left">🙋🏻‍♂️ Hey! I’m Benjami Bono, but you can call me Benji 😎<br><br>📍 Originally from Spain 🇪🇸, now living in Switzerland 🇨🇭<br><br>✨ +3 years crafting modern websites and dynamic UI's<br><br>💼 Currently working on <a href="https://recipe-master-opal.vercel.app/" target="_blank">Recipe Master</a> & <a href="https://ecom-mockup.vercel.app/" target="_blank">NexBuy</a> and other private projects for third parties.<br><br>💻 Frontend developer continuously expanding my skills in back-end development, aiming to become a full-stack developer.<br><br>🎯 In my free time, I’m passionate about technology in all its forms and love training MMA.<br><br>🔍 Open to on-site work and eager to contribute and take on new challenges.<br><br>📌 More info & projects → <a href="https://benjamibono.dev" target="_blank">My Portfolio</a><br><br>📥 Reach me at <a href="mailto:benjamibono@gmail.com">Gmail</a></p>
+<p align="left">
+🙋🏻‍♂️ I'm Benjami Bono <br><br>
+📍 Spanish developer based in Switzerland 🇨🇭<br><br>
+💻 Full Stack Developer with 4+ years of experience building fast, modern and scalable apps<br><br>
+🧠 Strong in <b>Next.js, TypeScript, React, Tailwind, Python</b> and AI integration (OpenAI)<br><br>
+🔧 I rely on <b>shadcn</b>, <b>Cursor</b>, <b>Figma</b> and modern tools to deliver rapid idea-to-reality products<br><br>
+🛠 Skilled in both frontend and backend, using PostgreSQL, AWS, Supabase, Node.js, Docker and more<br><br>
+🌐 Multilingual: fluent in English, Spanish and Catalan — professional level in German, French, Italian<br><br>
+🧪 Built 20+ real-world projects across diverse domains — check out <a href="https://therecipemaster.vercel.app/" target="_blank">Recipe Master</a> or <a href="https://siammay.com/" target="_blank">Siam May</a><br><br>
+📦 Fully available for on-site roles and relocation within Switzerland<br><br>
+📥 Reach me at <a href="mailto:benjamibono@gmail.com">email</a> or see more at <a href="https://benjamibono.dev" target="_blank">my portfolio</a><br>
+</p>
 
 ###
 
@@ -42,6 +53,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
