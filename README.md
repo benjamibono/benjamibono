@@ -1,4 +1,4 @@
- <h1 align="center">Hey! I’m Benji 👋🏼</h1>
+ <h1 align="center">Hey! I'm Benji 👋🏼</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/benjamibono" target="_blank">
@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Coding and leveling up daily!</h1>
+<h1 align="center">Tech Lead building products that matter</h1>
 
 ###
 
@@ -27,15 +27,14 @@
 
 <p align="left">
 🙋🏻‍♂️ I'm Benjami Bono <br><br>
-📍 Spanish developer based in Switzerland 🇨🇭<br><br>
-💻 Full Stack Developer with 4+ years of experience building fast, modern and scalable apps<br><br>
-🧠 Strong in <b>Next.js, TypeScript, React, Tailwind, Python</b> and AI integration (OpenAI)<br><br>
-🔧 I rely on <b>shadcn</b>, <b>Cursor</b>, <b>Figma</b> and modern tools to deliver rapid idea-to-reality products<br><br>
-🛠 Skilled in both frontend and backend, using PostgreSQL, AWS, Supabase, Node.js, Docker and more<br><br>
+📍 Based in Zürich, Switzerland 🇨🇭<br><br>
+🚀 <b>Tech Lead</b> at <a href="https://21impact.com" target="_blank">21 Impact Labs</a>, leading the xponetiq Premium platform from MVP to production<br><br>
+💻 5+ years of full-stack experience shipping fast, modern and scalable web applications<br><br>
+🧠 Strong in <b>React, Next.js, TypeScript, Node.js, Python, AWS</b> and system architecture<br><br>
+🛠 I own the full technical lifecycle: architecture, CI/CD, deployments, monitoring, and team mentoring<br><br>
 🌐 Multilingual: fluent in English, Spanish and Catalan — professional level in German, French, Italian<br><br>
-🧪 Built 20+ real-world projects across diverse domains — check out <a href="https://therecipemaster.vercel.app/" target="_blank">Recipe Master</a> or <a href="https://siammay.com/" target="_blank">Siam May</a><br><br>
-📦 Fully available for on-site roles and relocation within Switzerland<br><br>
-📥 Reach me at <a href="mailto:benjamibono@gmail.com">email</a> or see more at <a href="https://benjamibono.dev" target="_blank">my portfolio</a><br>
+🧪 Shipped 20+ production apps — from <a href="https://recipe-master-opal.vercel.app/" target="_blank">Recipe Master</a> to <a href="https://siammay.com/" target="_blank">Siam May</a> to health-tech platforms<br><br>
+📥 See my work at <a href="https://benjamibono.dev" target="_blank">benjamibono.dev</a> or reach me at <a href="mailto:benjamibono@gmail.com">benjamibono@gmail.com</a><br>
 </p>
 
 ###
@@ -45,29 +44,31 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
 
 ###
