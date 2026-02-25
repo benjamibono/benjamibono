@@ -28,7 +28,7 @@
 <p align="left">
 🙋🏻‍♂️ I'm Benjami Bono <br><br>
 📍 Based in Zürich, Switzerland 🇨🇭<br><br>
-🚀 <b>Tech Lead</b> at <a href="https://21impact.com" target="_blank">21 Impact Labs</a>, leading the xponetiq Premium platform from MVP to production<br><br>
+🚀 <b>Tech Lead</b> at <a href="https://21impactlabs.com" target="_blank">21 Impact Labs</a>, leading the xponetiq Premium platform from MVP to production<br><br>
 💻 5+ years of full-stack experience shipping fast, modern and scalable web applications<br><br>
 🧠 Strong in <b>React, Next.js, TypeScript, Node.js, Python, AWS</b> and system architecture<br><br>
 🛠 I own the full technical lifecycle: architecture, CI/CD, deployments, monitoring, and team mentoring<br><br>
